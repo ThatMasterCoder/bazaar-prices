@@ -2,10 +2,10 @@
   "compilerOptions": {
     "target": "esnext",
     "module": "esnext",
-    "outDir": "./frontend/js",
-    "rootDir": "./frontend/ts",
+    "outDir": "./frontend/dist",
+    "rootDir": "./frontend/src",
     "strict": true,
     "esModuleInterop": true
   },
-  "include": ["frontend/ts/**/*"]
+  "include": ["frontend/src/**/*"]
 }
