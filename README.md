@@ -27,6 +27,7 @@ tsc --watch
 
 ## Running
 ```
-flask --app backend/app.py run```
+flask --app backend/app.py run
+```
 
-Open http://127.0.0.1:5000 in your browser.
+Then open http://127.0.0.1:5000 in your browser.
